@@ -2,6 +2,6 @@ Gra w 2D, polega na zręczności gracza, który poprzez klikanie przycisku spacj
 
 W grze trzeba osiągnąć jak najlepszy wynik zbierając białe kwadraciki, oraz omijając jednocześnie kolorowe.
 
-Wszystko spada na gracza w losowym miejscu od góry i w losowej koleśność.
+Wszystko spada na gracza w losowym miejscu od góry i w losowej kolejności.
 
 Po osiągnięciu konkretnej liczby punktów, prędkość gracza nieznacznie przyspiesza, co ma na celu utrudnić grę z każdym kolejnym przekroczonym progiem.
