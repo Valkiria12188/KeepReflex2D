@@ -1,4 +1,4 @@
-Gra w 2D, polega na zręczności gracza, który poprzez klikanie przycisku spacji lub lepwego przycisku myszki, powoduje zmiana kierunku obracania się kulki(gracza).
+Gra w 2D, polega na zręczności gracza, który poprzez klikanie przycisku spacji lub lewego przycisku myszki, powoduje zmiana kierunku obracania się kulki(gracza).
 
 W grze trzeba osiągnąć jak najlepszy wynik zbierając białe kwadraciki, oraz omijając jednocześnie kolorowe.
 
